@@ -1,9 +1,13 @@
 # applied_statistics
 Overview of Repository:
 
-This is a Respository containing my work for the Applied Statistics module. The repository contains all files necessary to fit the brief given by the Lecturer. This includes the Project.ipynb and tasks.ipynb project files. The project objective is to investigate differences in plant weights across three groups (ctrl, trt1, and trt2) using statistical methods, including t-tests and ANOVA. 
+This is a Respository containing my work for the Applied Statistics module. The repository contains all files necessary to fit the brief given by the Lecturer. This includes the Project.ipynb and tasks.ipynb project files. 
+
+
+The project objective is to investigate differences in plant weights across three groups (ctrl, trt1, and trt2) using statistical methods, including t-tests and ANOVA. 
 
 The Tasks file deals with four specific tasks each around using different methods of applying statistical analysis. 
+
 
 files in repository:
 Project.ipynb
@@ -41,7 +45,23 @@ SciPy
 
 
 
-References: 
+References:
+Tasks
+1. McLoughlin, I. (2024). Lady Tasting Tea Experiment. Available at: https://github.com/ianmcloughlin/2425_applied_statistics/blob/main/02_lady_tasting_tea.ipynb.
+
+2. GeeksforGeeks. (2024). Type I and Type II Errors. Available at: https://www.geeksforgeeks.org/type-i-and-type-ii-errors/.
+
+3. Learn.co Students. (2019). Type 1 and Type 2 Errors Lab. Available at: https://github.com/learn-co-students/dsc-2-20-11type-1-and-type-2-errors-lab-nyc-ds-career-012819.
+
+4. Scipy Documentation. (2024). Shapiro-Wilk Test. Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html.
+
+5. National Library of Medicine. (n.d.). P-value. Available at: https://www.nlm.nih.gov/oet/ed/stats/02-940.html#:~:text=A%20p%2Dvalue%20is%20the,be%20the%20result%20of%20chance.
+
+6. Scipy Documentation. (2024). F-Tests for One-Way ANOVA. Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html.
+
+7. Scipy Documentation. (2024). Independent T-Test. Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html.
+
+Project
 1. Dobson, A.J. (1983) *An Introduction to Statistical Modelling*. Chapman & Hall.  
 2. Arel-Bundock, V. (2019) ‘PlantGrowth Dataset Description’. Available at: <https://vincentarelbundock.github.io/Rdatasets/datasets.html> (Accessed: 12 December 2024).  
 3. Voxco (2021) ‘ANOVA: Definition, Types, Assumptions, and Application’. Available at: <https://www.voxco.com/blog/what-is-anova/> (Accessed: 12 December 2024).  
